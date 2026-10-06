@@ -1,0 +1,6 @@
+{
+  "name": "clean-view",
+  "version": "0.1.0",
+  "description": "Hides tool-call noise; shows only what Claude is working on and a one-line summary when it finishes",
+  "types": "./types/index.d.ts"
+}
